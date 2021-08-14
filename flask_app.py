@@ -1,4 +1,5 @@
 from flask import Flask
+
 from bg_queue import start_q_handler
 
 app = Flask(__name__)

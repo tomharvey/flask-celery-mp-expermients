@@ -1,2 +1,4 @@
+celery==4.4.6
 Flask
 gunicorn
+redis
